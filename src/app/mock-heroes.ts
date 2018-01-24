@@ -1,3 +1,6 @@
+// pode deletar esse ts ja que o há o httpclient
+
+
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
